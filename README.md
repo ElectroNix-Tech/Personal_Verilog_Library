@@ -79,7 +79,8 @@ Cache  |  |
 Pipeline Components  |  |
 Performance Counters  |  |
 
-- `PLANNED`  -  Not started
+- ` `  -  Not started, Idea
+- `PLANNED`  -  Not started, planned
 - `WIP`  -   Work In Progress
 - `REVIEW`  -  Needs review
 - `SIM`  -  Simulation tested
